@@ -1,1 +1,0 @@
-console.log('Hello new file Index2.js')
