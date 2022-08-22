@@ -1,1 +1,1 @@
-console.log('hello advanced')
+console.log('Вы чудесны')
